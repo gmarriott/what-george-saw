@@ -1,4 +1,4 @@
-# A blog example using Next.js, TypeScript and Markdown. 
+# A personal blog using Next.js, TypeScript and Markdown. 
 
 This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using Markdown files as the data source.
 
